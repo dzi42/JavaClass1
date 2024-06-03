@@ -30,7 +30,7 @@ public class HelloWorld {
         String vanban = "khanh duy ";
         System.out.println(vanban);
 
-        int soInt = 155;
+        int soInt = 15000;
         double soThuc = soInt;
         System.out.println(soThuc);
 
